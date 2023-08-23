@@ -17,3 +17,5 @@ Technologies Implemented:-
 - Assigning IP Addresses to Router's interfaces.
 - Static IP Address allocation to Host Devices.
 - Test and Verifying Network Communication.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<img width="864" alt="Screenshot 2023-08-23 201804" src="https://github.com/Kiran090303/Simple-Network/assets/98480971/76c86410-5227-4f13-9762-f1e73b6aacdb">
